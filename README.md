@@ -2,7 +2,6 @@
 a simple Node.js utility for reading logs. Made with Love using Node.js, Express.js, HTML, Materialize-Css and Jquery.
 
 # Version
----------------------
 0.2
 
 # Installation
